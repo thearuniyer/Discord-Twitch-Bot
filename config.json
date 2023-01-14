@@ -1,8 +1,8 @@
 {
-    "client_id": "63rvpiw8msv2k1wycr49z2mudlntb8",
-    "client_secret": "2ebwvcl83w2qiuiyt9yjd4p59f3in2",
-    "access_token": "4j1g2azlgdjj33seoktmslv11c6eva",
-    "discord_token": "OTUwNjAwODAwNjAwNzE5NDEw.YibR_A.BVpTVt5x9LtF45sYaSQk3S31DQA",
+    "client_id": "CLIENT_ID",
+    "client_secret": "CLIENT_SECRET",
+    "access_token": "ACCESS_TOKEN",
+    "discord_token": "DISCORD_TOKEN",
     "watchlist": [
       "anthonyz",
       "jonthebroski",
@@ -21,7 +21,7 @@
     "yt_channels": [
         "UCRAEUAmW9kletIzOxhpLRFw"
     ],
-    "youtube_apiKey": "AIzaSyAZUrL1jtfR3a2lG-0O7KtrosjiGcpcQG0"
+    "youtube_apiKey": "youtube_apiKey"
 }
   
   
